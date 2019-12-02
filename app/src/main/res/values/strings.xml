@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MiniProjectSMB</string>
+    <string name="product_list_project_res">Product list project</string>
+    <string name="lista_res">Lista</string>
+    <string name="opcje_res">Opcje</string>
+    <string name="title_activity_options">OptionsActivity</string>
+    <string name="czcionka_res">Czcionka</string>
+    <string name="rozmiar_res">Rozmiar</string>
+    <string name="kolor_res">Kolor</string>
+    <string name="wpisz_kolor_res">Wpisz kolor</string>
+    <string name="wpisz_rozmiar_res">Wpisz rozmiar</string>
+    <string name="akceptuj_res">Akceptuj</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="wybierz_kolor">Wybierz kolor</string>
+</resources>
